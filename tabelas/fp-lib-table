@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JS_Comunicacao")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Comunicacao.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+  (lib (name "JS_Conectores")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Conectores.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+  (lib (name "JS_Discretos")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Discretos.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+  (lib (name "JS_Energia")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Energia.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+  (lib (name "JS_Microcontroladores")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Microcontroladores.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+  (lib (name "JS_Modulos")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Modulos.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+  (lib (name "JS_Reles")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Reles.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+  (lib (name "JS_Sensores")(type "KiCad")(uri "${JS_KICAD_LIB}/footprints/JS_Sensores.pretty")(options "")(descr "UTFPR Rocket — biblioteca-js"))
+)

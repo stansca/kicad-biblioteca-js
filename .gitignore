@@ -1,0 +1,6 @@
+.DS_Store
+fp-info-cache
+*.lck
+# modelos 3D dos fabricantes: baixar no site de cada um (ver 3dmodels/README.md)
+3dmodels/*.step
+3dmodels/*.stp
